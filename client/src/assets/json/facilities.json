@@ -1,0 +1,2711 @@
+[
+  {
+    "attributes": {
+      "id": "864d91a6-3a40-4098-a880-84b841e11adb",
+      "title": "24-hour front desk",
+      "category": "general"
+    },
+    "id": "864d91a6-3a40-4098-a880-84b841e11adb",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "5647179f-f62d-4560-a36c-1a44b6c36927",
+      "title": "24-hour security",
+      "category": "safety_and_security"
+    },
+    "id": "5647179f-f62d-4560-a36c-1a44b6c36927",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "cfd17530-e04f-423a-9851-2981a225ab14",
+      "title": "Accessible parking",
+      "category": "food_and_drink"
+    },
+    "id": "cfd17530-e04f-423a-9851-2981a225ab14",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "69172f92-de58-4820-967d-043c4975cf60",
+      "title": "Access to health care professionals",
+      "category": "safety_and_security"
+    },
+    "id": "69172f92-de58-4820-967d-043c4975cf60",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "dbd55138-eafb-4c3b-a959-a5d813115558",
+      "title": "ADA Accessible",
+      "category": "general"
+    },
+    "id": "dbd55138-eafb-4c3b-a959-a5d813115558",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "a6a4fe55-7f60-4e67-aa91-cd4323279ed2",
+      "title": "Adult only",
+      "category": "general"
+    },
+    "id": "a6a4fe55-7f60-4e67-aa91-cd4323279ed2",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "bacd5c8b-e9a9-46dd-ab2b-deb3c98fe870",
+      "title": "Aerobics",
+      "category": "activites"
+    },
+    "id": "bacd5c8b-e9a9-46dd-ab2b-deb3c98fe870",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "cc402cc0-696b-4bd6-a5d7-4adb060bc056",
+      "title": "Air conditioning",
+      "category": "general"
+    },
+    "id": "cc402cc0-696b-4bd6-a5d7-4adb060bc056",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "2713845c-2ec3-4674-846b-a45103134919",
+      "title": "Airport shuttle (free)",
+      "category": "services"
+    },
+    "id": "2713845c-2ec3-4674-846b-a45103134919",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "90a86233-88e1-448c-ad63-d705e13b28cb",
+      "title": "Airport shuttle service (surcharge)",
+      "category": "services"
+    },
+    "id": "90a86233-88e1-448c-ad63-d705e13b28cb",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "0ef03369-5cdd-49aa-b75c-0b353a3b9ea5",
+      "title": "Airport Shuttle (surcharge)",
+      "category": "general"
+    },
+    "id": "0ef03369-5cdd-49aa-b75c-0b353a3b9ea5",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "1dcf703e-a5c0-4892-9dde-526441e13b99",
+      "title": "All plates, cutlery, glasses and other tableware have been sanitised",
+      "category": "safety_and_security"
+    },
+    "id": "1dcf703e-a5c0-4892-9dde-526441e13b99",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "9ebac99b-40f1-4e9d-ba36-d186868165e1",
+      "title": "All Spaces Non-Smoking (public and private)",
+      "category": "general"
+    },
+    "id": "9ebac99b-40f1-4e9d-ba36-d186868165e1",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "d7f359de-1d8e-465d-9113-ff2fb411e962",
+      "title": "Archery",
+      "category": "activites"
+    },
+    "id": "d7f359de-1d8e-465d-9113-ff2fb411e962",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "be00a2c1-58bc-4e71-a788-08853f892fb9",
+      "title": "ATM on site",
+      "category": "general"
+    },
+    "id": "be00a2c1-58bc-4e71-a788-08853f892fb9",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "cd2fe4e5-7423-4db3-bf6c-d2ab648211f2",
+      "title": "Auditory Guidance",
+      "category": "safety_and_security"
+    },
+    "id": "cd2fe4e5-7423-4db3-bf6c-d2ab648211f2",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "e127e93c-8956-4608-bc35-753a0c652d7a",
+      "title": "Baby safety gates",
+      "category": "safety_and_security"
+    },
+    "id": "e127e93c-8956-4608-bc35-753a0c652d7a",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "66b95066-172e-47a5-8ede-21c52d8efcda",
+      "title": "Baby sitting",
+      "category": "services"
+    },
+    "id": "66b95066-172e-47a5-8ede-21c52d8efcda",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "258f3e0c-b386-4538-a2a1-fbfba935b2f1",
+      "title": "Back-in RV Sites",
+      "category": "general"
+    },
+    "id": "258f3e0c-b386-4538-a2a1-fbfba935b2f1",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "c853057c-dd62-4331-88fe-b859006cac1a",
+      "title": "Back massage",
+      "category": "services"
+    },
+    "id": "c853057c-dd62-4331-88fe-b859006cac1a",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "55918185-c477-48b1-af9d-40847b13ade0",
+      "title": "Badminton equipment",
+      "category": "activites"
+    },
+    "id": "55918185-c477-48b1-af9d-40847b13ade0",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "24f98ce0-5717-47e1-bd95-c792bc9f6250",
+      "title": "Baggage Storage",
+      "category": "services"
+    },
+    "id": "24f98ce0-5717-47e1-bd95-c792bc9f6250",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "f47cd66c-6074-440b-8a70-bc97e7178512",
+      "title": "Bar",
+      "category": "food_and_drink"
+    },
+    "id": "f47cd66c-6074-440b-8a70-bc97e7178512",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "43fff034-61ff-4743-95c7-75a8b7a9a24d",
+      "title": "Bathroom emergency pull cord",
+      "category": "safety_and_security"
+    },
+    "id": "43fff034-61ff-4743-95c7-75a8b7a9a24d",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "3226463a-5468-4886-b16f-3a7738e5679f",
+      "title": "BBQ/Picnic area",
+      "category": "outdoors"
+    },
+    "id": "3226463a-5468-4886-b16f-3a7738e5679f",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "c08ecda3-44e0-4ff7-8a71-2b7ee900d18f",
+      "title": "Beach",
+      "category": "activites"
+    },
+    "id": "c08ecda3-44e0-4ff7-8a71-2b7ee900d18f",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "6e01a0aa-ad6d-4e16-be08-72b8dad77a34",
+      "title": "Beachfront",
+      "category": "general"
+    },
+    "id": "6e01a0aa-ad6d-4e16-be08-72b8dad77a34",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "a692efdc-3e1e-49a6-89eb-04e681410fa2",
+      "title": "Beauty Services",
+      "category": "general"
+    },
+    "id": "a692efdc-3e1e-49a6-89eb-04e681410fa2",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "a03977d0-efef-4e1e-ae93-3476819e4a33",
+      "title": "Bicycle rentals",
+      "category": "activites"
+    },
+    "id": "a03977d0-efef-4e1e-ae93-3476819e4a33",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "40c6485b-000a-43b1-aea9-6525eaed2ad4",
+      "title": "Bike parking",
+      "category": "sustainable_practice"
+    },
+    "id": "40c6485b-000a-43b1-aea9-6525eaed2ad4",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "be217262-689c-4e67-94b1-a0ebf4cb5dde",
+      "title": "Bike rental",
+      "category": "sustainable_practice"
+    },
+    "id": "be217262-689c-4e67-94b1-a0ebf4cb5dde",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "698c0acc-02a1-4b92-bd7a-38b0ae83c5b1",
+      "title": "Bikes available (free)",
+      "category": "services"
+    },
+    "id": "698c0acc-02a1-4b92-bd7a-38b0ae83c5b1",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "dbfe2a79-3c83-4d38-9faf-0364ea1412b3",
+      "title": "Bike tours",
+      "category": "activites"
+    },
+    "id": "dbfe2a79-3c83-4d38-9faf-0364ea1412b3",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "1e68dbd1-17f0-4047-821a-2899221f9e67",
+      "title": "Billiard",
+      "category": "activites"
+    },
+    "id": "1e68dbd1-17f0-4047-821a-2899221f9e67",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "f31300fb-d6db-442a-943e-ff8129eefdb1",
+      "title": "Bingo",
+      "category": "activites"
+    },
+    "id": "f31300fb-d6db-442a-943e-ff8129eefdb1",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "362f98ee-fd43-4031-8fc3-1c4ab5adeeec",
+      "title": "Board games/puzzles",
+      "category": "general"
+    },
+    "id": "362f98ee-fd43-4031-8fc3-1c4ab5adeeec",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "cc957036-aae8-4ba4-8328-ca4ce96ede59",
+      "title": "Body scrub",
+      "category": "services"
+    },
+    "id": "cc957036-aae8-4ba4-8328-ca4ce96ede59",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "551e15e8-8a6f-4e79-97fe-befc262345c0",
+      "title": "Body Treatments",
+      "category": "services"
+    },
+    "id": "551e15e8-8a6f-4e79-97fe-befc262345c0",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "f2e3892e-72d9-4aa3-a557-03719fb8e8e5",
+      "title": "Body wrap",
+      "category": "services"
+    },
+    "id": "f2e3892e-72d9-4aa3-a557-03719fb8e8e5",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "7f772ed8-c00e-4b48-a9df-e51a20e56044",
+      "title": "Book/DVD/Music library for children",
+      "category": "general"
+    },
+    "id": "7f772ed8-c00e-4b48-a9df-e51a20e56044",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "151ccdd3-e7f9-4874-9bca-8a02ba871c32",
+      "title": "Bottle of water",
+      "category": "food_and_drink"
+    },
+    "id": "151ccdd3-e7f9-4874-9bca-8a02ba871c32",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "8ed39a68-564c-4fc0-8861-0cbe74bea562",
+      "title": "Bowling",
+      "category": "activites"
+    },
+    "id": "8ed39a68-564c-4fc0-8861-0cbe74bea562",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "3835ea28-7544-46b7-bbce-53b9d0e2fa3e",
+      "title": "Breakfast",
+      "category": "food_and_drink"
+    },
+    "id": "3835ea28-7544-46b7-bbce-53b9d0e2fa3e",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "0af3c819-1652-4b4b-a1ce-2d0a6d54e0fe",
+      "title": "Breakfast in the room",
+      "category": "food_and_drink"
+    },
+    "id": "0af3c819-1652-4b4b-a1ce-2d0a6d54e0fe",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "53bbd5c3-27b8-49f0-a141-ff87f7b6eecc",
+      "title": "Breakfast takeaway containers",
+      "category": "general"
+    },
+    "id": "53bbd5c3-27b8-49f0-a141-ff87f7b6eecc",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "e84752fc-ba2f-406d-93be-6d9fe65dc867",
+      "title": "Bridal Suite",
+      "category": "general"
+    },
+    "id": "e84752fc-ba2f-406d-93be-6d9fe65dc867",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "fc1123be-3ad9-4634-a862-cc785197c86a",
+      "title": "Business center",
+      "category": "services"
+    },
+    "id": "fc1123be-3ad9-4634-a862-cc785197c86a",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "79dd0213-2910-40ee-a2bc-fe9fa1843cbc",
+      "title": "Cable Hookups",
+      "category": "general"
+    },
+    "id": "79dd0213-2910-40ee-a2bc-fe9fa1843cbc",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "66706e71-f403-404e-834a-d9bf1b5ce8bf",
+      "title": "Canoeing",
+      "category": "activites"
+    },
+    "id": "66706e71-f403-404e-834a-d9bf1b5ce8bf",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "f7556d30-de6d-4d85-b3e3-0d998bbb852b",
+      "title": "Carbon monoxide detector",
+      "category": "safety_and_security"
+    },
+    "id": "f7556d30-de6d-4d85-b3e3-0d998bbb852b",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "07b4689e-ca6f-45e5-812b-eb6761724090",
+      "title": "Carbon monoxide source",
+      "category": "safety_and_security"
+    },
+    "id": "07b4689e-ca6f-45e5-812b-eb6761724090",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "50581878-7f63-4c29-8906-ff2b090e7c30",
+      "title": "Car rental",
+      "category": "services"
+    },
+    "id": "50581878-7f63-4c29-8906-ff2b090e7c30",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "5e53be27-f699-44ce-9411-887babf2d381",
+      "title": "Cashless payment available",
+      "category": "safety_and_security"
+    },
+    "id": "5e53be27-f699-44ce-9411-887babf2d381",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "120b9045-79b0-4fe1-ad59-12b690fff1bf",
+      "title": "Casino",
+      "category": "activites"
+    },
+    "id": "120b9045-79b0-4fe1-ad59-12b690fff1bf",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "985fb017-efcb-4677-b635-40304d21e43a",
+      "title": "CCTV in common areas",
+      "category": "safety_and_security"
+    },
+    "id": "985fb017-efcb-4677-b635-40304d21e43a",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "f63da231-cb79-4389-a415-8abab6e5781f",
+      "title": "CCTV outside property",
+      "category": "safety_and_security"
+    },
+    "id": "f63da231-cb79-4389-a415-8abab6e5781f",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "73c55dbd-0cb9-4dde-9dee-ffa41f0f5f87",
+      "title": "Chapel/shrine",
+      "category": "general"
+    },
+    "id": "73c55dbd-0cb9-4dde-9dee-ffa41f0f5f87",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "2e8a5930-2e3e-48b6-bb96-d36cfe6a94be",
+      "title": "Children television networks",
+      "category": "general"
+    },
+    "id": "2e8a5930-2e3e-48b6-bb96-d36cfe6a94be",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "e1c547ca-3dee-430b-a80e-d18861ae2f51",
+      "title": "Chocolate/Cookies",
+      "category": "food_and_drink"
+    },
+    "id": "e1c547ca-3dee-430b-a80e-d18861ae2f51",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "305dc741-7d04-4286-a2d5-6185d60d75d4",
+      "title": "Clubhouse",
+      "category": "general"
+    },
+    "id": "305dc741-7d04-4286-a2d5-6185d60d75d4",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "3b891bc0-527d-4127-bba9-5562273a40f1",
+      "title": "Community BBQ/Grill",
+      "category": "food_and_drink"
+    },
+    "id": "3b891bc0-527d-4127-bba9-5562273a40f1",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "ba5331f3-b26e-4050-a7b9-d87a996efd97",
+      "title": "Community Fire Pit",
+      "category": "general"
+    },
+    "id": "ba5331f3-b26e-4050-a7b9-d87a996efd97",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "62a9722e-24c4-4dee-8a9e-1f9bf08ecc5d",
+      "title": "Community Restrooms",
+      "category": "general"
+    },
+    "id": "62a9722e-24c4-4dee-8a9e-1f9bf08ecc5d",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "27cd577f-02d2-4584-a840-654cc5de3969",
+      "title": "Community Showers",
+      "category": "general"
+    },
+    "id": "27cd577f-02d2-4584-a840-654cc5de3969",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "544d41da-13f6-45b6-9c6d-d4e18e9804e0",
+      "title": "Community Water Fountain",
+      "category": "general"
+    },
+    "id": "544d41da-13f6-45b6-9c6d-d4e18e9804e0",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "6411173c-9ec6-415b-89f8-46aaf6d4e7e3",
+      "title": "Concierge desk",
+      "category": "services"
+    },
+    "id": "6411173c-9ec6-415b-89f8-46aaf6d4e7e3",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "c9c3078a-60c9-444d-bca6-bb40aae7b998",
+      "title": "Contactless check-in/out",
+      "category": "safety_and_security"
+    },
+    "id": "c9c3078a-60c9-444d-bca6-bb40aae7b998",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "8c1cc8ab-e4ee-45d4-b1ad-0369fa1ccd1b",
+      "title": "Cooking class",
+      "category": "activites"
+    },
+    "id": "8c1cc8ab-e4ee-45d4-b1ad-0369fa1ccd1b",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "789d32a8-fdc8-4993-abae-54e716ad1a49",
+      "title": "Couples massage",
+      "category": "services"
+    },
+    "id": "789d32a8-fdc8-4993-abae-54e716ad1a49",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "7b5d53ad-5f2e-4167-be9f-5a1e42907d5e",
+      "title": "Currency exchange",
+      "category": "services"
+    },
+    "id": "7b5d53ad-5f2e-4167-be9f-5a1e42907d5e",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "7c699972-5ea9-4ad2-987d-f4d86ccf9c0c",
+      "title": "Cycling",
+      "category": "activites"
+    },
+    "id": "7c699972-5ea9-4ad2-987d-f4d86ccf9c0c",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "73d27967-0f00-402b-b66d-255d84839949",
+      "title": "Darts",
+      "category": "activites"
+    },
+    "id": "73d27967-0f00-402b-b66d-255d84839949",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "7e4d5375-6dc6-41c3-934b-5f334270a6f4",
+      "title": "Delivered food is securely covered",
+      "category": "safety_and_security"
+    },
+    "id": "7e4d5375-6dc6-41c3-934b-5f334270a6f4",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "c219b022-7123-4305-82bc-cd37d0127be1",
+      "title": "Designated smoking area",
+      "category": "general"
+    },
+    "id": "c219b022-7123-4305-82bc-cd37d0127be1",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "17600689-ac7c-42d9-939b-0d6b591d5799",
+      "title": "Dinner",
+      "category": "general"
+    },
+    "id": "17600689-ac7c-42d9-939b-0d6b591d5799",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "1b2922aa-83fb-4236-b4e5-1b4ae7138026",
+      "title": "Dirt Roads",
+      "category": "general"
+    },
+    "id": "1b2922aa-83fb-4236-b4e5-1b4ae7138026",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "7b9bb814-a9e1-46cc-b82b-2b72ba0115d8",
+      "title": "Diving",
+      "category": "activites"
+    },
+    "id": "7b9bb814-a9e1-46cc-b82b-2b72ba0115d8",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "028eeb7a-9db5-4b54-94af-1a012a1838a1",
+      "title": "Drinking Water",
+      "category": "food_and_drink"
+    },
+    "id": "028eeb7a-9db5-4b54-94af-1a012a1838a1",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "f42a5ce2-088c-45e4-85df-a6362f3234d9",
+      "title": "Dry cleaning",
+      "category": "services"
+    },
+    "id": "f42a5ce2-088c-45e4-85df-a6362f3234d9",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "9030aa2f-62b1-45b3-a452-41a8982e50bc",
+      "title": "Electric vehicle charging station",
+      "category": "sustainable_practice"
+    },
+    "id": "9030aa2f-62b1-45b3-a452-41a8982e50bc",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "62c62700-89fb-4493-9069-ce79cc8c7ada",
+      "title": "Elevators",
+      "category": "general"
+    },
+    "id": "62c62700-89fb-4493-9069-ce79cc8c7ada",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "8152e3ba-166e-421e-bdf7-07b1fb21cb60",
+      "title": "Entertainment Staff",
+      "category": "general"
+    },
+    "id": "8152e3ba-166e-421e-bdf7-07b1fb21cb60",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "91b67db9-574a-4ad0-8996-9244c38f75de",
+      "title": "Evening Entertainment",
+      "category": "activites"
+    },
+    "id": "91b67db9-574a-4ad0-8996-9244c38f75de",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "a63d7d45-5e7f-4c78-a9af-823ba0188d44",
+      "title": "Events ticket service",
+      "category": "services"
+    },
+    "id": "a63d7d45-5e7f-4c78-a9af-823ba0188d44",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "0f9c160c-b3e9-43e1-b097-ecec2eb3ab75",
+      "title": "Express Check-in/Check-out",
+      "category": "services"
+    },
+    "id": "0f9c160c-b3e9-43e1-b097-ecec2eb3ab75",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "6835bb86-56dc-48cb-9cff-6e8794ca8a24",
+      "title": "Face masks for guests available",
+      "category": "safety_and_security"
+    },
+    "id": "6835bb86-56dc-48cb-9cff-6e8794ca8a24",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "a2ab656a-004f-44f5-b88d-fbb8cb4e599b",
+      "title": "Facial treatments",
+      "category": "services"
+    },
+    "id": "a2ab656a-004f-44f5-b88d-fbb8cb4e599b",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "fb53bfdd-7b16-4985-94a1-37325a023ec7",
+      "title": "Family Rooms",
+      "category": "general"
+    },
+    "id": "fb53bfdd-7b16-4985-94a1-37325a023ec7",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "416265d0-cfa3-4084-a861-3fdc013bac35",
+      "title": "Fence around pool",
+      "category": "safety_and_security"
+    },
+    "id": "416265d0-cfa3-4084-a861-3fdc013bac35",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "182d38d2-38bf-41de-a258-e5219a9c4bbb",
+      "title": "Fire extinguishers",
+      "category": "safety_and_security"
+    },
+    "id": "182d38d2-38bf-41de-a258-e5219a9c4bbb",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "ab6c6ea3-997e-48b3-a1d7-86a030191b8f",
+      "title": "Fire Pit",
+      "category": "general"
+    },
+    "id": "ab6c6ea3-997e-48b3-a1d7-86a030191b8f",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "d7773502-6270-40b0-8274-94eb9d2f1e5e",
+      "title": "Fire Ring / Grill",
+      "category": "food_and_drink"
+    },
+    "id": "d7773502-6270-40b0-8274-94eb9d2f1e5e",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "124edccf-939d-4b91-a96f-9dcac12abe2b",
+      "title": "First aid kit available",
+      "category": "safety_and_security"
+    },
+    "id": "124edccf-939d-4b91-a96f-9dcac12abe2b",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "85802ed4-5153-4932-b729-793754ec4cf1",
+      "title": "Fishing",
+      "category": "activites"
+    },
+    "id": "85802ed4-5153-4932-b729-793754ec4cf1",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "b2a61929-2c97-4a71-8292-8e4f5d2d75cf",
+      "title": "Fitness",
+      "category": "general"
+    },
+    "id": "b2a61929-2c97-4a71-8292-8e4f5d2d75cf",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "9f3ae468-b3e1-4df0-aea8-3f85b7f9e6cf",
+      "title": "Fitness Center",
+      "category": "services"
+    },
+    "id": "9f3ae468-b3e1-4df0-aea8-3f85b7f9e6cf",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "3d0d70f2-e312-42fb-b3cc-9712b040b190",
+      "title": "Fitness classes",
+      "category": "activites"
+    },
+    "id": "3d0d70f2-e312-42fb-b3cc-9712b040b190",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "adf49584-8b6c-4264-909a-ed5b7612666c",
+      "title": "Fitness/spa locker rooms",
+      "category": "general"
+    },
+    "id": "adf49584-8b6c-4264-909a-ed5b7612666c",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "6e35c78c-8c18-49ee-89ef-68923caf05f4",
+      "title": "Foot bath",
+      "category": "general"
+    },
+    "id": "6e35c78c-8c18-49ee-89ef-68923caf05f4",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "a2c80834-b572-4d19-bd8e-433b5cf159df",
+      "title": "Foot massage",
+      "category": "services"
+    },
+    "id": "a2c80834-b572-4d19-bd8e-433b5cf159df",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "05ae5e8c-3ac6-4ae3-9996-941b928d5f67",
+      "title": "Fruits",
+      "category": "food_and_drink"
+    },
+    "id": "05ae5e8c-3ac6-4ae3-9996-941b928d5f67",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "6d8ee35b-2a52-43c2-9d66-f52a5266f17f",
+      "title": "Full body massage",
+      "category": "services"
+    },
+    "id": "6d8ee35b-2a52-43c2-9d66-f52a5266f17f",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "d703d8b3-612d-407c-aead-86a6de6923f7",
+      "title": "Game room",
+      "category": "activites"
+    },
+    "id": "d703d8b3-612d-407c-aead-86a6de6923f7",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "7fda90a7-90fb-4abe-a180-dfc1e9160af3",
+      "title": "Garden",
+      "category": "outdoors"
+    },
+    "id": "7fda90a7-90fb-4abe-a180-dfc1e9160af3",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "ed1f91d7-e2f1-4349-ae3c-4031a3768613",
+      "title": "Gasoline Nearby",
+      "category": "general"
+    },
+    "id": "ed1f91d7-e2f1-4349-ae3c-4031a3768613",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "efdbb9cd-9d48-4004-ad09-04ed24e52446",
+      "title": "General Store",
+      "category": "general"
+    },
+    "id": "efdbb9cd-9d48-4004-ad09-04ed24e52446",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "319ba06a-9593-4b79-ab0e-be48cf251986",
+      "title": "Golf Course (within 2 miles)",
+      "category": "activites"
+    },
+    "id": "319ba06a-9593-4b79-ab0e-be48cf251986",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "a9a580f1-63fc-4e2c-903a-ef144eedc5cb",
+      "title": "Gravel Roads",
+      "category": "general"
+    },
+    "id": "a9a580f1-63fc-4e2c-903a-ef144eedc5cb",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "a7e8a36e-b147-4bf6-ac86-73b22505bbb7",
+      "title": "Grocery shopping service available",
+      "category": "services"
+    },
+    "id": "a7e8a36e-b147-4bf6-ac86-73b22505bbb7",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "1601fd95-b6a1-47df-9602-c9c18071b18a",
+      "title": "Guest accommodation is disinfected between stays",
+      "category": "safety_and_security"
+    },
+    "id": "1601fd95-b6a1-47df-9602-c9c18071b18a",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "161b2ab9-dda5-46f0-b79c-72f28715822c",
+      "title": "Guest accommodation sealed after cleaning",
+      "category": "safety_and_security"
+    },
+    "id": "161b2ab9-dda5-46f0-b79c-72f28715822c",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "fac58081-6e83-44c9-a8b8-a54c32dcc1bf",
+      "title": "Guest accomodation cleaning can be avoided on request",
+      "category": "safety_and_security"
+    },
+    "id": "fac58081-6e83-44c9-a8b8-a54c32dcc1bf",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "45d4bb90-7328-4453-9a68-fd51d62e2afe",
+      "title": "Hair colouring",
+      "category": "services"
+    },
+    "id": "45d4bb90-7328-4453-9a68-fd51d62e2afe",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "3c71779f-5509-49f2-8b29-81902a0a546c",
+      "title": "Hair cut",
+      "category": "services"
+    },
+    "id": "3c71779f-5509-49f2-8b29-81902a0a546c",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "2dbc9241-2793-489d-9a14-5333d6828efa",
+      "title": "Hair dresser-beautician",
+      "category": "general"
+    },
+    "id": "2dbc9241-2793-489d-9a14-5333d6828efa",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "cd8cb776-0128-42c2-87a8-d36de0f4fbc4",
+      "title": "Hair styling",
+      "category": "services"
+    },
+    "id": "cd8cb776-0128-42c2-87a8-d36de0f4fbc4",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "02f9c6ca-3c44-4b88-b63a-49c4f8997aab",
+      "title": "Hair treatments",
+      "category": "services"
+    },
+    "id": "02f9c6ca-3c44-4b88-b63a-49c4f8997aab",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "7e37569f-7ab7-4fc0-8ce9-e6156a80a99f",
+      "title": "Hand massage",
+      "category": "services"
+    },
+    "id": "7e37569f-7ab7-4fc0-8ce9-e6156a80a99f",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "adb51d29-3c84-4076-9bbd-70b40995bf16",
+      "title": "Hand sanitiser in guest accommodation and key areas",
+      "category": "safety_and_security"
+    },
+    "id": "adb51d29-3c84-4076-9bbd-70b40995bf16",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "bbbe2c8b-15cc-40b0-8207-794aa82f0cbd",
+      "title": "Happy hour",
+      "category": "activites"
+    },
+    "id": "bbbe2c8b-15cc-40b0-8207-794aa82f0cbd",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "d8be8cef-7991-46e1-b913-282719d23a45",
+      "title": "Head massage",
+      "category": "services"
+    },
+    "id": "d8be8cef-7991-46e1-b913-282719d23a45",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "7b4c4429-29f4-4888-9437-f63dfbf85eb1",
+      "title": "Heated pool",
+      "category": "general"
+    },
+    "id": "7b4c4429-29f4-4888-9437-f63dfbf85eb1",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "47f8720e-1211-4f41-b47f-aca6166c6371",
+      "title": "Heating",
+      "category": "general"
+    },
+    "id": "47f8720e-1211-4f41-b47f-aca6166c6371",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "58dd91ef-8b96-4d5c-b588-3379f5ac8206",
+      "title": "Higher level toilet",
+      "category": "safety_and_security"
+    },
+    "id": "58dd91ef-8b96-4d5c-b588-3379f5ac8206",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "5f833c11-9ed9-480b-bc87-f6979e631b89",
+      "title": "Hike / Bike Campsites",
+      "category": "general"
+    },
+    "id": "5f833c11-9ed9-480b-bc87-f6979e631b89",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "9d6004e4-d627-4cc1-bebb-a3c5a1f6b95b",
+      "title": "Hiking",
+      "category": "activites"
+    },
+    "id": "9d6004e4-d627-4cc1-bebb-a3c5a1f6b95b",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "72706ee2-a985-420a-af67-af390a7db518",
+      "title": "Horseback riding",
+      "category": "activites"
+    },
+    "id": "72706ee2-a985-420a-af67-af390a7db518",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "5681847a-35f2-4dca-b4c5-8f3006290285",
+      "title": "Hot Spring Bath",
+      "category": "general"
+    },
+    "id": "5681847a-35f2-4dca-b4c5-8f3006290285",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "ac513017-ac8d-4adb-8d91-b77ac5288d4f",
+      "title": "Housekeeping - daily",
+      "category": "general"
+    },
+    "id": "ac513017-ac8d-4adb-8d91-b77ac5288d4f",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "3bf22217-b491-416b-9efd-bc85a4ec6cd1",
+      "title": "Hypoallergenic room available",
+      "category": "general"
+    },
+    "id": "3bf22217-b491-416b-9efd-bc85a4ec6cd1",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "07bb6fc3-2583-4c08-9ada-eaa8f5d87abd",
+      "title": "Indoor parking",
+      "category": "parking"
+    },
+    "id": "07bb6fc3-2583-4c08-9ada-eaa8f5d87abd",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "5b73951a-2cd2-4434-a604-cc6f26619f7f",
+      "title": "Indoor play area",
+      "category": "general"
+    },
+    "id": "5b73951a-2cd2-4434-a604-cc6f26619f7f",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "b4ccd0d3-587f-4e50-8416-9448f70ebcca",
+      "title": "Indoor pool",
+      "category": "general"
+    },
+    "id": "b4ccd0d3-587f-4e50-8416-9448f70ebcca",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "f6211fdb-325f-4e27-ab8b-fa92cdee895e",
+      "title": "Indoor Swimming Pool (all year)",
+      "category": "activites"
+    },
+    "id": "f6211fdb-325f-4e27-ab8b-fa92cdee895e",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "1548b756-8acb-4b64-bd8b-0546754fd22e",
+      "title": "Indoor Swimming Pool (seasonal)",
+      "category": "activites"
+    },
+    "id": "1548b756-8acb-4b64-bd8b-0546754fd22e",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "01679d16-7d5b-478e-98df-fc0024b33917",
+      "title": "Infinity pool",
+      "category": "outdoors"
+    },
+    "id": "01679d16-7d5b-478e-98df-fc0024b33917",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "32ac9394-33a6-4a1b-9b6a-378a72850a3d",
+      "title": "In-room dining options available",
+      "category": "safety_and_security"
+    },
+    "id": "32ac9394-33a6-4a1b-9b6a-378a72850a3d",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "47d95097-ac74-42ca-8555-d1df32ed85bf",
+      "title": "Invoices Provided",
+      "category": "general"
+    },
+    "id": "47d95097-ac74-42ca-8555-d1df32ed85bf",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "5fdf9566-6fe0-4377-a469-cd2e4a12a950",
+      "title": "Ironing service",
+      "category": "services"
+    },
+    "id": "5fdf9566-6fe0-4377-a469-cd2e4a12a950",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "fb27532a-cad5-410e-aee8-f0cb05a39480",
+      "title": "Jacuzzi (Hot Tub)",
+      "category": "general"
+    },
+    "id": "fb27532a-cad5-410e-aee8-f0cb05a39480",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "8d9cd946-dd47-4ac8-bfe1-e65f4b7c99d3",
+      "title": "Karaoke",
+      "category": "activites"
+    },
+    "id": "8d9cd946-dd47-4ac8-bfe1-e65f4b7c99d3",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "448c5ba3-091a-428c-b9eb-338fdb53f17c",
+      "title": "Key access",
+      "category": "safety_and_security"
+    },
+    "id": "448c5ba3-091a-428c-b9eb-338fdb53f17c",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "41c21c55-57b4-43a4-a642-19f1b4d2df76",
+      "title": "Key card access",
+      "category": "safety_and_security"
+    },
+    "id": "41c21c55-57b4-43a4-a642-19f1b4d2df76",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "8385dcb6-7c0e-4b47-8946-3e720d59b2cc",
+      "title": "Keycard for room electricity",
+      "category": "sustainable_practice"
+    },
+    "id": "8385dcb6-7c0e-4b47-8946-3e720d59b2cc",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "d2dc4c64-2b3a-4c6c-9aa6-21d140a98b75",
+      "title": "Kid-friendly buffet",
+      "category": "general"
+    },
+    "id": "d2dc4c64-2b3a-4c6c-9aa6-21d140a98b75",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "21b2426b-1a0e-4871-9796-e357ed74a850",
+      "title": "Kid meals",
+      "category": "general"
+    },
+    "id": "21b2426b-1a0e-4871-9796-e357ed74a850",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "ccb09f00-f18a-4526-b2c0-691b303a38e3",
+      "title": "Kids' club",
+      "category": "general"
+    },
+    "id": "ccb09f00-f18a-4526-b2c0-691b303a38e3",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "5384a7e3-5829-4d48-910b-456c97fd28b3",
+      "title": "Kids' outdoor play equipment",
+      "category": "outdoors"
+    },
+    "id": "5384a7e3-5829-4d48-910b-456c97fd28b3",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "a7962d26-df3f-45eb-a425-d2e9f4e15702",
+      "title": "Kids pool",
+      "category": "general"
+    },
+    "id": "a7962d26-df3f-45eb-a425-d2e9f4e15702",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "e313e9b9-dc1b-40ac-a100-ac5ea02dacac",
+      "title": "Laundry",
+      "category": "services"
+    },
+    "id": "e313e9b9-dc1b-40ac-a100-ac5ea02dacac",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "6e1c2582-1520-429e-9ae5-45871418b229",
+      "title": "Laundry Facilities",
+      "category": "general"
+    },
+    "id": "6e1c2582-1520-429e-9ae5-45871418b229",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "9a419966-4ceb-40b3-9424-3583bc62ca30",
+      "title": "Library",
+      "category": "general"
+    },
+    "id": "9a419966-4ceb-40b3-9424-3583bc62ca30",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "f67dbfd7-502c-47f4-a2cc-233c7a09ab9f",
+      "title": "Light therapy",
+      "category": "services"
+    },
+    "id": "f67dbfd7-502c-47f4-a2cc-233c7a09ab9f",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "dc7e7c20-683b-49ef-a065-e447c26e7939",
+      "title": "Linens, towels and laundry washed in accordance with local authorities guidelines",
+      "category": "safety_and_security"
+    },
+    "id": "dc7e7c20-683b-49ef-a065-e447c26e7939",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "1498643e-9c2f-4f77-9df9-ac8e70d51176",
+      "title": "Live music/performance",
+      "category": "activites"
+    },
+    "id": "1498643e-9c2f-4f77-9df9-ac8e70d51176",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "52a2d9a7-ff39-4168-9537-06dc58fda420",
+      "title": "Live sports events (broadcast)",
+      "category": "activites"
+    },
+    "id": "52a2d9a7-ff39-4168-9537-06dc58fda420",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "1e2526ff-bd9e-4025-823f-9a72e097a61c",
+      "title": "Lockers",
+      "category": "safety_and_security"
+    },
+    "id": "1e2526ff-bd9e-4025-823f-9a72e097a61c",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "c648e247-5fb5-4c7d-bb37-e7ded5acb7a2",
+      "title": "Low bathroom sink",
+      "category": "safety_and_security"
+    },
+    "id": "c648e247-5fb5-4c7d-bb37-e7ded5acb7a2",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "a63807ff-8d87-4380-8b27-cef0b227969a",
+      "title": "Lunch",
+      "category": "general"
+    },
+    "id": "a63807ff-8d87-4380-8b27-cef0b227969a",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "effcdff1-af36-4570-ae26-4465721fd32f",
+      "title": "Make up services",
+      "category": "services"
+    },
+    "id": "effcdff1-af36-4570-ae26-4465721fd32f",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "4780025d-b817-4899-96db-4b9bca93a728",
+      "title": "Manicure",
+      "category": "services"
+    },
+    "id": "4780025d-b817-4899-96db-4b9bca93a728",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "cf7a6fc9-4501-4015-9c11-d06b617bcbbc",
+      "title": "Massage",
+      "category": "services"
+    },
+    "id": "cf7a6fc9-4501-4015-9c11-d06b617bcbbc",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "e9d4a356-36fd-47c1-9829-be3c08d0ea66",
+      "title": "Massage chair",
+      "category": "general"
+    },
+    "id": "e9d4a356-36fd-47c1-9829-be3c08d0ea66",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "962316cf-544c-4693-9dc8-56e70c15a3ed",
+      "title": "Meeting/Banquet Facilities",
+      "category": "services"
+    },
+    "id": "962316cf-544c-4693-9dc8-56e70c15a3ed",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "18fae0f6-abbf-4716-a9f8-d14b4713d16a",
+      "title": "Minigolf",
+      "category": "activites"
+    },
+    "id": "18fae0f6-abbf-4716-a9f8-d14b4713d16a",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "b0b2967c-ea72-4db7-9921-68dd2b35b753",
+      "title": "Minimarket on site",
+      "category": "general"
+    },
+    "id": "b0b2967c-ea72-4db7-9921-68dd2b35b753",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "dd904ffb-6da4-4808-a5fc-4fa69a1c004c",
+      "title": "Mobile app for room service",
+      "category": "safety_and_security"
+    },
+    "id": "dd904ffb-6da4-4808-a5fc-4fa69a1c004c",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "ad49eeb4-da0d-4386-a036-2a431fb2c761",
+      "title": "Movie nights",
+      "category": "activites"
+    },
+    "id": "ad49eeb4-da0d-4386-a036-2a431fb2c761",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "de873c64-b2ef-4bf5-a302-5f91abbcef08",
+      "title": "Neck massage",
+      "category": "services"
+    },
+    "id": "de873c64-b2ef-4bf5-a302-5f91abbcef08",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "b1ec5953-e419-49af-a265-625055da168d",
+      "title": "Newspaper",
+      "category": "general"
+    },
+    "id": "b1ec5953-e419-49af-a265-625055da168d",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "74690ab2-5880-40e4-8922-dbc27e015b60",
+      "title": "Nightclub/DJ",
+      "category": "services"
+    },
+    "id": "74690ab2-5880-40e4-8922-dbc27e015b60",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "bf382902-2be1-486c-a2b5-44d09efb7def",
+      "title": "Non-smoking rooms",
+      "category": "general"
+    },
+    "id": "bf382902-2be1-486c-a2b5-44d09efb7def",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "d9f0eb5f-2b97-4561-b836-402c99f27d85",
+      "title": "On-site coffee house",
+      "category": "food_and_drink"
+    },
+    "id": "d9f0eb5f-2b97-4561-b836-402c99f27d85",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "98f05e20-1fc5-4322-8e6d-da49332821ac",
+      "title": "Open-air bath",
+      "category": "general"
+    },
+    "id": "98f05e20-1fc5-4322-8e6d-da49332821ac",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "ab097c4a-e857-49c2-91f1-ef9dc18d0c93",
+      "title": "Opt-out from daily room cleaning",
+      "category": "sustainable_practice"
+    },
+    "id": "ab097c4a-e857-49c2-91f1-ef9dc18d0c93",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "90bd3d22-3ee3-460a-b3ea-b733939791a0",
+      "title": "Outdoor fireplace",
+      "category": "outdoors"
+    },
+    "id": "90bd3d22-3ee3-460a-b3ea-b733939791a0",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "a8d8aafd-de58-4450-8f10-a4eac3f097f4",
+      "title": "Outdoor furniture",
+      "category": "outdoors"
+    },
+    "id": "a8d8aafd-de58-4450-8f10-a4eac3f097f4",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "424dd5ab-a53d-4c7e-bf6c-25d0c028a4d1",
+      "title": "Outdoor pool",
+      "category": "outdoors"
+    },
+    "id": "424dd5ab-a53d-4c7e-bf6c-25d0c028a4d1",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "2ff175ae-4245-43ef-b43b-159bc163b302",
+      "title": "Outdoor Swimming Pool (all year)",
+      "category": "activites"
+    },
+    "id": "2ff175ae-4245-43ef-b43b-159bc163b302",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "b7843a89-c410-45c3-ac36-ebd1c93b9e24",
+      "title": "Outdoor Swimming Pool (seasonal)",
+      "category": "activites"
+    },
+    "id": "b7843a89-c410-45c3-ac36-ebd1c93b9e24",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "0bf47f4d-630c-4a96-bbbe-a6d81d4f90e9",
+      "title": "Packed Lunches",
+      "category": "general"
+    },
+    "id": "0bf47f4d-630c-4a96-bbbe-a6d81d4f90e9",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "52a50d2d-c76d-45bf-8d84-c8b12a4ba2b5",
+      "title": "Paved Roads",
+      "category": "general"
+    },
+    "id": "52a50d2d-c76d-45bf-8d84-c8b12a4ba2b5",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "7b238cb7-65d6-404b-a720-d9a2f12001c7",
+      "title": "Pedicure",
+      "category": "services"
+    },
+    "id": "7b238cb7-65d6-404b-a720-d9a2f12001c7",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "7967551d-2653-4ece-a412-dcd3b7bc7960",
+      "title": "Personal trainer",
+      "category": "activites"
+    },
+    "id": "7967551d-2653-4ece-a412-dcd3b7bc7960",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "81d5ee31-c65b-4b82-97df-7e73c80dda6e",
+      "title": "Pet basket",
+      "category": "pets"
+    },
+    "id": "81d5ee31-c65b-4b82-97df-7e73c80dda6e",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "7255858d-470b-479a-b927-76018c1bb3dc",
+      "title": "Pet bowls",
+      "category": "pets"
+    },
+    "id": "7255858d-470b-479a-b927-76018c1bb3dc",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "4610a953-20ba-4c82-bb0a-2210bbdf8557",
+      "title": "Pet Friendly",
+      "category": "pets"
+    },
+    "id": "4610a953-20ba-4c82-bb0a-2210bbdf8557",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "41083f9e-4538-490d-8fce-1be18c00fcf1",
+      "title": "Pets Allowed",
+      "category": "pets"
+    },
+    "id": "41083f9e-4538-490d-8fce-1be18c00fcf1",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "1d9d45de-c019-43a4-a1f1-041ac1419754",
+      "title": "Physical distancing following guidelines from local authorities",
+      "category": "safety_and_security"
+    },
+    "id": "1d9d45de-c019-43a4-a1f1-041ac1419754",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "dd7c4d90-1141-4888-8eec-4799f16e6e6d",
+      "title": "Physical distancing in dining areas",
+      "category": "safety_and_security"
+    },
+    "id": "dd7c4d90-1141-4888-8eec-4799f16e6e6d",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "1111bcc4-d5c3-4892-af31-476648501fe9",
+      "title": "Picnic area",
+      "category": "food_and_drink"
+    },
+    "id": "1111bcc4-d5c3-4892-af31-476648501fe9",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "dcdddfab-73ec-46c7-9b95-0a96bfd4abec",
+      "title": "Picnic Table",
+      "category": "food_and_drink"
+    },
+    "id": "dcdddfab-73ec-46c7-9b95-0a96bfd4abec",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "2d5d66ab-6183-40a2-8e96-9d1a6cd2a740",
+      "title": "Playground",
+      "category": "outdoors"
+    },
+    "id": "2d5d66ab-6183-40a2-8e96-9d1a6cd2a740",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "cb9448ff-acc0-4c87-a427-a3c3348815dc",
+      "title": "Plunge pool",
+      "category": "outdoors"
+    },
+    "id": "cb9448ff-acc0-4c87-a427-a3c3348815dc",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "bb725505-dc6d-47ec-babf-3439b7ae4180",
+      "title": "Pool bar",
+      "category": "outdoors"
+    },
+    "id": "bb725505-dc6d-47ec-babf-3439b7ae4180",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "0f5688fa-82cb-4892-8ebe-56c803417a02",
+      "title": "Pool cover",
+      "category": "safety_and_security"
+    },
+    "id": "0f5688fa-82cb-4892-8ebe-56c803417a02",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "234fe568-94b3-4341-b9f4-2eaeadd5633b",
+      "title": "Pool towels",
+      "category": "general"
+    },
+    "id": "234fe568-94b3-4341-b9f4-2eaeadd5633b",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "cfe87d7d-b6ef-4dcf-b5c7-57d14a938b39",
+      "title": "Pool with view",
+      "category": "outdoors"
+    },
+    "id": "cfe87d7d-b6ef-4dcf-b5c7-57d14a938b39",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "4c1f130a-097d-4dbd-8f68-80ae8afd817f",
+      "title": "Private beach area",
+      "category": "activites"
+    },
+    "id": "4c1f130a-097d-4dbd-8f68-80ae8afd817f",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "994657bd-0f3b-4604-8b55-3b2dab39bf98",
+      "title": "Private Check-in/Check-out",
+      "category": "general"
+    },
+    "id": "994657bd-0f3b-4604-8b55-3b2dab39bf98",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "bc229e64-9f22-46e2-9aa4-882a260aa15c",
+      "title": "Process in place to check health of guests",
+      "category": "safety_and_security"
+    },
+    "id": "bc229e64-9f22-46e2-9aa4-882a260aa15c",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "4c20fa86-b539-4901-964f-e75ceb60df48",
+      "title": "Propane Refilling Station",
+      "category": "general"
+    },
+    "id": "4c20fa86-b539-4901-964f-e75ceb60df48",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "338883aa-b3e1-4b80-87d3-8b8595f9d4d2",
+      "title": "Property is cleaned by professional cleaning companies",
+      "category": "safety_and_security"
+    },
+    "id": "338883aa-b3e1-4b80-87d3-8b8595f9d4d2",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "d7ab0d30-1658-4355-b1f3-063cb67fc94b",
+      "title": "Property is wheel chair accessible",
+      "category": "general"
+    },
+    "id": "d7ab0d30-1658-4355-b1f3-063cb67fc94b",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "b54a50e5-fce2-406b-8044-9b3d95e72aac",
+      "title": "Property removed all, or never offered, plastic bottles for non-water drinks",
+      "category": "sustainable_practice"
+    },
+    "id": "b54a50e5-fce2-406b-8044-9b3d95e72aac",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "0eaae870-a6be-4de5-850b-7cd3504d34ee",
+      "title": "Property removed all, or never offered, plastic cups",
+      "category": "sustainable_practice"
+    },
+    "id": "0eaae870-a6be-4de5-850b-7cd3504d34ee",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "3e9f3e63-a861-4470-952a-8797ea1c0651",
+      "title": "Property removed all, or never offered, plastic cutlery and tableware",
+      "category": "sustainable_practice"
+    },
+    "id": "3e9f3e63-a861-4470-952a-8797ea1c0651",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "c355b4b6-5bcc-47d0-98c3-ebf29d97ae10",
+      "title": "Property removed all, or never offered, plastic stirrers",
+      "category": "sustainable_practice"
+    },
+    "id": "c355b4b6-5bcc-47d0-98c3-ebf29d97ae10",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "1d144491-425d-4e39-ae01-d454f0a2e1bb",
+      "title": "Property removed all, or never offered, plastic straws",
+      "category": "sustainable_practice"
+    },
+    "id": "1d144491-425d-4e39-ae01-d454f0a2e1bb",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "2933aa56-6129-4dc2-8836-dd67e9e1bcca",
+      "title": "Property removed all, or never offered, plastic water bottles",
+      "category": "sustainable_practice"
+    },
+    "id": "2933aa56-6129-4dc2-8836-dd67e9e1bcca",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "a068d477-051f-44a3-b601-bfde41923188",
+      "title": "Property removed all, or never offered, single-use plastic toiletries",
+      "category": "sustainable_practice"
+    },
+    "id": "a068d477-051f-44a3-b601-bfde41923188",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "cefd9064-5b1f-4a2f-b355-b480722c712b",
+      "title": "Pub crawls",
+      "category": "activites"
+    },
+    "id": "cefd9064-5b1f-4a2f-b355-b480722c712b",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "b18ebf6a-861e-4a2f-8461-95926d02611f",
+      "title": "Public bath",
+      "category": "general"
+    },
+    "id": "b18ebf6a-861e-4a2f-8461-95926d02611f",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "860e5be3-96d6-4b26-bb00-e772bc00b60d",
+      "title": "Public transport tickets",
+      "category": "services"
+    },
+    "id": "860e5be3-96d6-4b26-bb00-e772bc00b60d",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "4fedc189-d623-4a88-8229-422a7392bc50",
+      "title": "Pull-Thru RV Sites",
+      "category": "parking"
+    },
+    "id": "4fedc189-d623-4a88-8229-422a7392bc50",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "c7cd6bc2-05ef-4b17-bfdd-8a8d398c4d3d",
+      "title": "Refillable water stations",
+      "category": "sustainable_practice"
+    },
+    "id": "c7cd6bc2-05ef-4b17-bfdd-8a8d398c4d3d",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "893cae56-0348-4e27-844f-df092b47c2e5",
+      "title": "Restaurant",
+      "category": "food_and_drink"
+    },
+    "id": "893cae56-0348-4e27-844f-df092b47c2e5",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "2a87b7a6-e038-4c06-922e-de87ec967743",
+      "title": "Rooftop pool",
+      "category": "outdoors"
+    },
+    "id": "2a87b7a6-e038-4c06-922e-de87ec967743",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "ce1977fd-d323-48f9-a89d-74de2f27f37f",
+      "title": "Room service",
+      "category": "food_and_drink"
+    },
+    "id": "ce1977fd-d323-48f9-a89d-74de2f27f37f",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "3592d041-7012-4364-843c-aab04783a13e",
+      "title": "Rooms/Facilities for Disabled",
+      "category": "general"
+    },
+    "id": "3592d041-7012-4364-843c-aab04783a13e",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "b6db75c9-d22b-4bcf-9b8c-5a857baffda6",
+      "title": "RV Hookup",
+      "category": "general"
+    },
+    "id": "b6db75c9-d22b-4bcf-9b8c-5a857baffda6",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "56d9ecd1-23d4-4d5a-aee8-fefa3ba6d1e1",
+      "title": "RV Sanitation",
+      "category": "general"
+    },
+    "id": "56d9ecd1-23d4-4d5a-aee8-fefa3ba6d1e1",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "9b03de01-6f46-4e97-b87a-2342ed28c4b3",
+      "title": "Safe",
+      "category": "safety_and_security"
+    },
+    "id": "9b03de01-6f46-4e97-b87a-2342ed28c4b3",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "5e3ada8d-7961-4636-9c6e-cdb95972bf7f",
+      "title": "Salt-water pool",
+      "category": "outdoors"
+    },
+    "id": "5e3ada8d-7961-4636-9c6e-cdb95972bf7f",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "38e4dac8-0938-4805-9aad-c682fd0b4582",
+      "title": "Sauna",
+      "category": "services"
+    },
+    "id": "38e4dac8-0938-4805-9aad-c682fd0b4582",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "40568025-26eb-4b37-ac75-d5159692c2c2",
+      "title": "Screens or physical barriers placed between staff and guests in appropriate areas",
+      "category": "safety_and_security"
+    },
+    "id": "40568025-26eb-4b37-ac75-d5159692c2c2",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "65fba6e9-cac9-4e96-aab8-a785c13e503e",
+      "title": "Secured parking",
+      "category": "parking"
+    },
+    "id": "65fba6e9-cac9-4e96-aab8-a785c13e503e",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "d9ce4d37-687a-425f-b547-f77eacbcf745",
+      "title": "Security alarm",
+      "category": "safety_and_security"
+    },
+    "id": "d9ce4d37-687a-425f-b547-f77eacbcf745",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "522e9338-3271-4800-be97-8ed25576be7a",
+      "title": "Shallow end pool",
+      "category": "outdoors"
+    },
+    "id": "522e9338-3271-4800-be97-8ed25576be7a",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "f53cf9a8-9e6c-4d40-a7f9-34b8c383d4c9",
+      "title": "Shared Kitchen",
+      "category": "food_and_drink"
+    },
+    "id": "f53cf9a8-9e6c-4d40-a7f9-34b8c383d4c9",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "f8c33a08-b531-45e7-9b67-d6fc52b6ba57",
+      "title": "Shared lounge/TV area",
+      "category": "general"
+    },
+    "id": "f8c33a08-b531-45e7-9b67-d6fc52b6ba57",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "b849d072-fc10-4e7b-a53a-7b7e7bd568cd",
+      "title": "Shared stationery such as printed menus, magazines, pens, and paper removed",
+      "category": "safety_and_security"
+    },
+    "id": "b849d072-fc10-4e7b-a53a-7b7e7bd568cd",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "4a47b0de-4b28-452b-9d1f-c951172817ef",
+      "title": "Shoeshine",
+      "category": "services"
+    },
+    "id": "4a47b0de-4b28-452b-9d1f-c951172817ef",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "30a6d4be-c694-465c-84e1-0111108e5db4",
+      "title": "Shops (on site)",
+      "category": "services"
+    },
+    "id": "30a6d4be-c694-465c-84e1-0111108e5db4",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "fc5a8f7b-ec67-4003-b9ee-e70bbb73e51f",
+      "title": "Shower",
+      "category": "general"
+    },
+    "id": "fc5a8f7b-ec67-4003-b9ee-e70bbb73e51f",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "d5b2c8a1-088f-469b-9098-df916bb31f6d",
+      "title": "Shuttle Service",
+      "category": "general"
+    },
+    "id": "d5b2c8a1-088f-469b-9098-df916bb31f6d",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "810832b7-1379-49f9-ba34-20cb12684c8e",
+      "title": "Shuttle Service (free)",
+      "category": "services"
+    },
+    "id": "810832b7-1379-49f9-ba34-20cb12684c8e",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "25aee42c-0dd0-48c6-a711-f4ae03f785be",
+      "title": "Shuttle Service (surcharge)",
+      "category": "services"
+    },
+    "id": "25aee42c-0dd0-48c6-a711-f4ae03f785be",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "ec4b179c-750d-44be-ae87-8328c31afd4f",
+      "title": "Ski equipment hire (on site)",
+      "category": "activites"
+    },
+    "id": "ec4b179c-750d-44be-ae87-8328c31afd4f",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "5adcd003-740e-49ca-b1c2-d21eb1ae931f",
+      "title": "Skiing",
+      "category": "activites"
+    },
+    "id": "5adcd003-740e-49ca-b1c2-d21eb1ae931f",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "613b7322-552f-43d1-8070-44547adebbf5",
+      "title": "Ski pass vendor",
+      "category": "activites"
+    },
+    "id": "613b7322-552f-43d1-8070-44547adebbf5",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "3c0d5568-0942-42d3-8ad1-2daffa4b50a8",
+      "title": "Ski school",
+      "category": "activites"
+    },
+    "id": "3c0d5568-0942-42d3-8ad1-2daffa4b50a8",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "af168436-a0d0-4cd9-ba25-9f8d259b410e",
+      "title": "Ski Shuttle",
+      "category": "activites"
+    },
+    "id": "af168436-a0d0-4cd9-ba25-9f8d259b410e",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "8f2d5f12-0a6a-4519-a405-44bc47938726",
+      "title": "Ski storage",
+      "category": "activites"
+    },
+    "id": "8f2d5f12-0a6a-4519-a405-44bc47938726",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "f5b8ecd5-f007-4283-8e85-f1a0edda356f",
+      "title": "Ski-to-door access",
+      "category": "general"
+    },
+    "id": "f5b8ecd5-f007-4283-8e85-f1a0edda356f",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "aff1fa7c-46f5-4c42-9fa6-8cc584cc0611",
+      "title": "Smoke alarms",
+      "category": "safety_and_security"
+    },
+    "id": "aff1fa7c-46f5-4c42-9fa6-8cc584cc0611",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "841951f1-f4e8-4543-8efa-6e31c845efaa",
+      "title": "Snack bar",
+      "category": "food_and_drink"
+    },
+    "id": "841951f1-f4e8-4543-8efa-6e31c845efaa",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "5020e261-2416-4e58-8a4b-a37cf8a57938",
+      "title": "Snorkeling",
+      "category": "activites"
+    },
+    "id": "5020e261-2416-4e58-8a4b-a37cf8a57938",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "de5c2a44-ab05-4934-ac30-11c826ea6ece",
+      "title": "Solarium",
+      "category": "services"
+    },
+    "id": "de5c2a44-ab05-4934-ac30-11c826ea6ece",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "23754ca4-d8c9-4a29-9782-aa33a7cd65fc",
+      "title": "Soundproof-rooms",
+      "category": "general"
+    },
+    "id": "23754ca4-d8c9-4a29-9782-aa33a7cd65fc",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "ee38c28d-64d2-4982-b7d3-912d39c7de85",
+      "title": "Souvenir/Gift Shop",
+      "category": "general"
+    },
+    "id": "ee38c28d-64d2-4982-b7d3-912d39c7de85",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "d0d645ee-a795-468f-aad1-cdfe3dd4be5d",
+      "title": "Spa Facilities",
+      "category": "general"
+    },
+    "id": "d0d645ee-a795-468f-aad1-cdfe3dd4be5d",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "af9726b5-537b-42c3-8020-65a9926d4727",
+      "title": "Spa lounge/relaxation area",
+      "category": "general"
+    },
+    "id": "af9726b5-537b-42c3-8020-65a9926d4727",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "8190b8f8-54ac-429b-9d9b-f0d62718c2d3",
+      "title": "Spa & Wellness Centre",
+      "category": "general"
+    },
+    "id": "8190b8f8-54ac-429b-9d9b-f0d62718c2d3",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "a41901a1-bbd4-4ca6-9a4a-79fe0e22e750",
+      "title": "Spa/wellness packages",
+      "category": "general"
+    },
+    "id": "a41901a1-bbd4-4ca6-9a4a-79fe0e22e750",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "839922b5-51f4-42c3-9b3b-524d93c4916b",
+      "title": "Special Diet Menus (on request)",
+      "category": "general"
+    },
+    "id": "839922b5-51f4-42c3-9b3b-524d93c4916b",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "557b84da-41bb-4b6f-ae48-ae76434fc067",
+      "title": "Squash",
+      "category": "activites"
+    },
+    "id": "557b84da-41bb-4b6f-ae48-ae76434fc067",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "baaf91f4-de29-4c6f-a4e7-3d1ff10cbd86",
+      "title": "Staff follow all safety protocols as directed by local authorities",
+      "category": "safety_and_security"
+    },
+    "id": "baaf91f4-de29-4c6f-a4e7-3d1ff10cbd86",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "754e5e48-ca8e-4ce0-b108-af054043ef06",
+      "title": "Stand-up comedy",
+      "category": "activites"
+    },
+    "id": "754e5e48-ca8e-4ce0-b108-af054043ef06",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "bacc0836-b06d-4937-9f2a-ec28984f8d7e",
+      "title": "Steam room",
+      "category": "general"
+    },
+    "id": "bacc0836-b06d-4937-9f2a-ec28984f8d7e",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "6fe8d0f3-1f34-49e0-ae60-5a7e4cc28fc0",
+      "title": "Street parking",
+      "category": "parking"
+    },
+    "id": "6fe8d0f3-1f34-49e0-ae60-5a7e4cc28fc0",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "6838326a-9df2-4ad6-9219-799679196940",
+      "title": "Strollers",
+      "category": "general"
+    },
+    "id": "6838326a-9df2-4ad6-9219-799679196940",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "9e384fab-7727-4ae7-9a8e-e11324b94886",
+      "title": "Sun loungers or beach chairs",
+      "category": "general"
+    },
+    "id": "9e384fab-7727-4ae7-9a8e-e11324b94886",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "8a4109f0-3952-4a33-98fa-4787008f8cfc",
+      "title": "Sun terrace",
+      "category": "outdoors"
+    },
+    "id": "8a4109f0-3952-4a33-98fa-4787008f8cfc",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "d8ad7782-9ee2-456e-bcf5-b61621848f7f",
+      "title": "Sun umbrellas",
+      "category": "general"
+    },
+    "id": "d8ad7782-9ee2-456e-bcf5-b61621848f7f",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "b8956092-5d84-472e-8536-4d9c8a48759d",
+      "title": "Swimming pool",
+      "category": "outdoors"
+    },
+    "id": "b8956092-5d84-472e-8536-4d9c8a48759d",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "0bdab171-55e0-496e-a7fc-f7acdac29f8e",
+      "title": "Swimming pool toys",
+      "category": "general"
+    },
+    "id": "0bdab171-55e0-496e-a7fc-f7acdac29f8e",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "5bb52b3e-e24e-456c-b304-4f153f06c3c5",
+      "title": "Table tennis",
+      "category": "activites"
+    },
+    "id": "5bb52b3e-e24e-456c-b304-4f153f06c3c5",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "8ed316a2-8014-4a43-8456-70fe7dbc3301",
+      "title": "Temporary art galleries",
+      "category": "activites"
+    },
+    "id": "8ed316a2-8014-4a43-8456-70fe7dbc3301",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "e03595b8-17ea-4071-aac1-204656cb5866",
+      "title": "Tennis court",
+      "category": "activites"
+    },
+    "id": "e03595b8-17ea-4071-aac1-204656cb5866",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "e499ec0e-7384-4960-884f-045012c7eded",
+      "title": "Tennis equipment",
+      "category": "activites"
+    },
+    "id": "e499ec0e-7384-4960-884f-045012c7eded",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "750dfd2e-b14a-4e9f-9d94-0951f9e83a0f",
+      "title": "Terrace",
+      "category": "outdoors"
+    },
+    "id": "750dfd2e-b14a-4e9f-9d94-0951f9e83a0f",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "25873176-8040-4b30-87cc-8cfb53c5648c",
+      "title": "Themed dinner nights",
+      "category": "activites"
+    },
+    "id": "25873176-8040-4b30-87cc-8cfb53c5648c",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "f4a8e426-17a0-44bc-90fb-8e9fe09583cf",
+      "title": "Thermometers for guests provided by property",
+      "category": "safety_and_security"
+    },
+    "id": "f4a8e426-17a0-44bc-90fb-8e9fe09583cf",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "b52834ee-7405-4e56-af7c-8abcde5da8c5",
+      "title": "Ticket service",
+      "category": "general"
+    },
+    "id": "b52834ee-7405-4e56-af7c-8abcde5da8c5",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "b2a5d032-538b-4326-be39-94ef81c1b585",
+      "title": "Toilet",
+      "category": "general"
+    },
+    "id": "b2a5d032-538b-4326-be39-94ef81c1b585",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "ebff1d20-222e-4364-a0fd-6863c7cbc7a3",
+      "title": "Toilet with grab rails",
+      "category": "safety_and_security"
+    },
+    "id": "ebff1d20-222e-4364-a0fd-6863c7cbc7a3",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "a1a43289-ec9d-4409-9fdf-70139779ab4b",
+      "title": "Tour Desk",
+      "category": "services"
+    },
+    "id": "a1a43289-ec9d-4409-9fdf-70139779ab4b",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "811a4c12-9f7d-4a05-bbaa-c989fcf65ffd",
+      "title": "Tour or class about local culture",
+      "category": "activites"
+    },
+    "id": "811a4c12-9f7d-4a05-bbaa-c989fcf65ffd",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "88899d49-8989-4f86-a4f5-c6d2c77d6368",
+      "title": "Towels Changed Upon Request",
+      "category": "sustainable_practice"
+    },
+    "id": "88899d49-8989-4f86-a4f5-c6d2c77d6368",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "8c1c7436-d449-4bca-b2e6-6950ee04b1e0",
+      "title": "Trash Service",
+      "category": "services"
+    },
+    "id": "8c1c7436-d449-4bca-b2e6-6950ee04b1e0",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "b08e316f-4ebd-483d-a142-77055e2ad84e",
+      "title": "Trek-in > 1.5m",
+      "category": "general"
+    },
+    "id": "b08e316f-4ebd-483d-a142-77055e2ad84e",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "38d7822d-9fe7-48c9-9b5e-53e2ed6b10cd",
+      "title": "Trouser press",
+      "category": "services"
+    },
+    "id": "38d7822d-9fe7-48c9-9b5e-53e2ed6b10cd",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "a03436b3-39c7-4509-b7a0-2d9c975ae7f8",
+      "title": "Turkish/ Steam Bath",
+      "category": "services"
+    },
+    "id": "a03436b3-39c7-4509-b7a0-2d9c975ae7f8",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "e418c2e0-a582-4e86-aa86-bf7286a589b2",
+      "title": "Use of cleaning chemicals that are effective against Coronavirus",
+      "category": "safety_and_security"
+    },
+    "id": "e418c2e0-a582-4e86-aa86-bf7286a589b2",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "d101c76d-1f0e-476b-8a1f-e1152e0757c7",
+      "title": "Valet parking",
+      "category": "services"
+    },
+    "id": "d101c76d-1f0e-476b-8a1f-e1152e0757c7",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "cc1064c8-e0e5-48ee-9720-11cdb271d1c0",
+      "title": "Vending Machine (drinks)",
+      "category": "general"
+    },
+    "id": "cc1064c8-e0e5-48ee-9720-11cdb271d1c0",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "ddbb1d11-eb11-4527-9617-6f9798943b30",
+      "title": "Vending Machine(snacks)",
+      "category": "general"
+    },
+    "id": "ddbb1d11-eb11-4527-9617-6f9798943b30",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "c3a740ab-095f-4974-a6e7-c582be134d66",
+      "title": "Viproom facilities",
+      "category": "general"
+    },
+    "id": "c3a740ab-095f-4974-a6e7-c582be134d66",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "f212342c-dac9-4abe-97cc-9df1ad5f27ac",
+      "title": "Visual aids: Braille",
+      "category": "safety_and_security"
+    },
+    "id": "f212342c-dac9-4abe-97cc-9df1ad5f27ac",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "5e257d0a-8114-480c-8834-028bb23cf395",
+      "title": "Visual aids: Tactile Signs",
+      "category": "safety_and_security"
+    },
+    "id": "5e257d0a-8114-480c-8834-028bb23cf395",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "b7fa7330-bb7f-46f7-a5a1-3bc08dff27f6",
+      "title": "Walking tours",
+      "category": "activites"
+    },
+    "id": "b7fa7330-bb7f-46f7-a5a1-3bc08dff27f6",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "71a3bbe2-529a-48e2-8c0a-8fbdb50e18f5",
+      "title": "Waterfront",
+      "category": "general"
+    },
+    "id": "71a3bbe2-529a-48e2-8c0a-8fbdb50e18f5",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "594afede-f63b-4c32-ab0a-053efa6cd5a0",
+      "title": "Water park",
+      "category": "activites"
+    },
+    "id": "594afede-f63b-4c32-ab0a-053efa6cd5a0",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "674c3fae-5267-4798-8395-6574d7fb6ca0",
+      "title": "Water slide",
+      "category": "general"
+    },
+    "id": "674c3fae-5267-4798-8395-6574d7fb6ca0",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "dba61c2d-53e2-40c6-9ac6-ce21f887f783",
+      "title": "Water Sport Facilities (on site)",
+      "category": "activites"
+    },
+    "id": "dba61c2d-53e2-40c6-9ac6-ce21f887f783",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "0d0732f7-3d47-47a2-bf52-6fcc1eb56c2a",
+      "title": "Waxing services",
+      "category": "services"
+    },
+    "id": "0d0732f7-3d47-47a2-bf52-6fcc1eb56c2a",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "ed553333-7f1f-434a-8c43-eb8fe96c5f54",
+      "title": "WiFi",
+      "category": "general"
+    },
+    "id": "ed553333-7f1f-434a-8c43-eb8fe96c5f54",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "eb556bb8-f603-462f-add3-2491d6596e78",
+      "title": "Windsurfing",
+      "category": "activites"
+    },
+    "id": "eb556bb8-f603-462f-add3-2491d6596e78",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "e4325b9f-b6c1-4b97-8ac7-800ab4324f7a",
+      "title": "Wine/Champagne",
+      "category": "food_and_drink"
+    },
+    "id": "e4325b9f-b6c1-4b97-8ac7-800ab4324f7a",
+    "type": "facility"
+  },
+  {
+    "attributes": {
+      "id": "8caeeb52-9feb-4730-9d33-272ddb219b87",
+      "title": "Yoga classes",
+      "category": "activites"
+    },
+    "id": "8caeeb52-9feb-4730-9d33-272ddb219b87",
+    "type": "facility"
+  }
+]

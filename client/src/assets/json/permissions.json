@@ -1,0 +1,18 @@
+[
+  {
+    "label": "24/7 Entry",
+    "value": "24_7_entry"
+  },
+  {
+    "label": "Allow Smoking",
+    "value": "allow_smoking"
+  },
+  {
+    "label": "Allow Pets",
+    "value": "allow_pets"
+  },
+  {
+    "label": "Allow Drinking",
+    "value": "allow_drinking"
+  }
+]
