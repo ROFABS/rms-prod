@@ -266,7 +266,7 @@ function Login() {
       setUser(response.data.user); // Assuming you have a setUser function in your global context
 
       toast.success("Logged in automatically");
-      navigate("/ksr/create-order?tableId=05e12443-f281-4403-93fe-1d893e1eb1fb&typeOfSale=dine-in&tableNumber="1""); // Redirect to the dashboard
+      navigate("/ksr/create-order?tableId=05e12443-f281-4403-93fe-1d893e1eb1fb&typeOfSale=dine-in&tableNumber="1""/); // Redirect to the dashboard
     } catch (err) {
       console.error("Auto-login failed", err);
       toast.error("Auto-login failed. Please try again.");
@@ -278,7 +278,7 @@ function Login() {
     const localData = JSON.parse(localStorage.getItem("_session") as string);
     if (localData && localData.user) {
       // If session exists, redirect directly
-      navigate("/ksr/create-order?tableId=05e12443-f281-4403-93fe-1d893e1eb1fb&typeOfSale=dine-in&tableNumber="1"");
+      navigate("/ksr/create-order?tableId=05e12443-f281-4403-93fe-1d893e1eb1fb&typeOfSale=dine-in&tableNumber="1""/);
     } else {
       // Otherwise, attempt to login automatically
       loginAutomatically();
