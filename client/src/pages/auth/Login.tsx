@@ -278,7 +278,7 @@ function Login() {
     const localData = JSON.parse(localStorage.getItem("_session") as string);
     if (localData && localData.user) {
       // If session exists, redirect directly
-      navigate("/dashboard");
+      navigate("/ksr");
     } else {
       // Otherwise, attempt to login automatically
       loginAutomatically();
