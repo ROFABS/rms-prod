@@ -266,7 +266,7 @@ function Login() {
       setUser(response.data.user); // Assuming you have a setUser function in your global context
 
       toast.success("Logged in automatically");
-      navigate("/channelsmenu"); // Redirect to the dashboard
+      navigate("/ksr"); // Redirect to the dashboard
     } catch (err) {
       console.error("Auto-login failed", err);
       toast.error("Auto-login failed. Please try again.");
@@ -278,7 +278,7 @@ function Login() {
     const localData = JSON.parse(localStorage.getItem("_session") as string);
     if (localData && localData.user) {
       // If session exists, redirect directly
-      navigate("/channelsmenu");
+      navigate("/ksr");
     } else {
       // Otherwise, attempt to login automatically
       loginAutomatically();
