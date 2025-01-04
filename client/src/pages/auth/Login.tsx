@@ -267,7 +267,7 @@ function Login() {
 
       toast.success("Logged in automatically");
         const tableNumber = 1; // or any dynamic value
-      navigate("/ksr/create-order?tableId=05e12443-f281-4403-93fe-1d893e1eb1fb&typeOfSale=dine-in&tableNumber=${tableNumber}");
+      navigate("/ksr");
 
     
       // navigate("/ksr/create-order?tableId=05e12443-f281-4403-93fe-1d893e1eb1fb&typeOfSale=dine-in&tableNumber="1""/); // Redirect to the dashboard
@@ -283,7 +283,7 @@ function Login() {
     if (localData && localData.user) {
       // If session exists, redirect directly
       const tableNumber = 1; // or any dynamic value
-      navigate("/ksr/create-order?tableId=05e12443-f281-4403-93fe-1d893e1eb1fb&typeOfSale=dine-in&tableNumber=${tableNumber}");
+      navigate("/ksr");
 
     
     } else {
