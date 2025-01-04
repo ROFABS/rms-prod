@@ -270,7 +270,7 @@ function Login() {
       // navigate("/ksr/create-order?tableId=05e12443-f281-4403-93fe-1d893e1eb1fb&typeOfSale=dine-in&tableNumber={1}");
 
 
-       navigate("/day-close");
+       navigate("/dashboard");
     
        } catch (err) {
       console.error("Auto-login failed", err);
@@ -285,7 +285,7 @@ function Login() {
       // If session exists, redirect directly
       const tableNumber = 1; // or any dynamic value
       // navigate("/ksr/create-order?tableId=05e12443-f281-4403-93fe-1d893e1eb1fb&typeOfSale=dine-in&tableNumber={1}");
-      navigate("/day-close");
+      navigate("/dashboard");
 
     
     } else {
