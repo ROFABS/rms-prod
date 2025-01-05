@@ -34,7 +34,7 @@ const Root = () => {
 
   useEffect(() => {
     if (pathname === "/") {
-      navigate("/ksr");
+      navigate("/dashboard");
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [pathname]);
