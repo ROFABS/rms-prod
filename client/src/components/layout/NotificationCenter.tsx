@@ -82,7 +82,7 @@ const NotificationCenter: React.FC<NotificationCenterProps> = () => {
 
  // Socket connection and notification handling
  useEffect(() => {
-   const socket = io('http://localhost:1337', {
+   const socket = io('https://rmsapis.appostel.com', {
      transports: ['websocket'],
      reconnection: true,
      reconnectionAttempts: 5,
